@@ -1,6 +1,7 @@
 # Visualization and Visual Analytics 
 
-This repository contains my final project for the course **Visualization and Visual Analytics** at Peking University (PKU).
+This repository contains my final  group project for the course **Visualization and Visual Analytics** at Peking University (PKU).
+Group members：Chen Kairui(陈凯瑞), Hu Liang(胡良) and me.
 
 ## Course Homepage
 
